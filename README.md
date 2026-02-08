@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Michael Faugno 👋
 
-<!--
-**michael-faugno-dev/michael-faugno-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Solutions Architect | Software Engineer | Full-Stack Developer | Game Developer
 
-Here are some ideas to get you started:
+Currently seeking **Solutions Architect** and **Software Engineering** roles where I can leverage my expertise in:
+- **Backend Architecture**: PostgreSQL, .NET, Python, Flask
+- **Security & Compliance**: NIST 800-171, CMMC
+- **Full-Stack Development**: React, TypeScript, Node.js, Express
+- **Game Development**: Unity, C#, Multiplayer systems
+- **AI Integration**: Claude AI, Computer Vision, OCR
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technical Skills
+**Languages**: C#, Python, TypeScript, JavaScript, SQL  
+**Backend**: .NET 8, Flask, Node.js, Express  
+**Frontend**: React, HTML/CSS, Electron  
+**Databases**: PostgreSQL, SQL Server, MongoDB  
+**Cloud & DevOps**: AWS (Certificate Manager, Route 53), Git, Docker  
+**Game Dev**: Unity, C#, PostgreSQL integration  
+**AI/ML**: Claude AI Vision API, OCR, Computer Vision  
+
+### 🎮 Featured Projects
+- [**RPG Loot Generation System**](https://github.com/michael-faugno-dev/RPGLootGenerationDemo) - Enterprise-grade procedural generation with PostgreSQL materialized views and .NET 8
+- [**Pantry Scanner**](https://github.com/michael-faugno-dev/PantryScanner) - AI-powered inventory tracking with Claude Vision API and real-time PostgreSQL updates
+- [**Epic Seven Armory**](https://github.com/michael-faugno-dev/EpicSevenArmory) - Full-stack Twitch extension with React, Flask, and Electron for live streaming integration
+
+### 💼 Professional Background
+- **Solutions Architect** @ Townsend Agency (Current)
+- Former **Band Director** turned tech professional
+- Security compliance expertise (NIST 800-171/CMMC)
+- Infrastructure architecture & production systems management
+
+### 📫 Let's Connect
+- 🌐 [michaelfaugno.com](https://www.michaelfaugno.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/faugnom1/)
+- 📧 Available for Solutions Architect and Software Engineering opportunities
+
+---
+
+<sub>🎺 Fun fact: I taught music for over a decade before transitioning to software engineering!</sub>
