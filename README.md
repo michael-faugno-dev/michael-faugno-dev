@@ -5,7 +5,7 @@
 Currently seeking **Solutions Architect** and **Software Engineering** roles where I can leverage my expertise in:
 - **Backend Architecture**: PostgreSQL, .NET, Python, Flask
 - **Security & Compliance**: NIST 800-171, CMMC
-- **Full-Stack Development**: React, TypeScript, Node.js, Express
+- **Full-Stack Development**: React, Python, TypeScript, Node.js, Express
 - **Game Development**: Unity, C#, Multiplayer systems
 - **AI Integration**: Claude AI, Computer Vision, OCR
 
