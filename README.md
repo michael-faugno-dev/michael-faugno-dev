@@ -1,4 +1,4 @@
-# Hi, I'm Michael Faugno 👋
+# Hi, I'm Michael Faugno 
 
 ## Solutions Architect | Software Engineer | Full-Stack Developer | Game Developer
 
