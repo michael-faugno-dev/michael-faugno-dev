@@ -24,15 +24,23 @@ Currently seeking **Solutions Architect** and **Software Engineering** roles whe
 - [**Epic Seven Armory**](https://github.com/michael-faugno-dev/EpicSevenArmory) - Full-stack Twitch extension with React, Flask, and Electron for live streaming integration
 
 ### 💼 Professional Background
-- **Solutions Architect** @ Townsend Agency (Current)
-- Former **Band Director** turned tech professional
-- Security compliance expertise (NIST 800-171/CMMC)
-- Infrastructure architecture & production systems management
+- **Solutions Architect** @ Townsend Agency - Infrastructure architecture, security compliance (NIST 800-171/CMMC), and production systems management
+- **Software Engineer** - Full-stack development with focus on backend systems, database optimization, and API design. Experience building scalable applications with .NET, Python, React, and PostgreSQL
+- **Indie Game Developer** - Core developer for "Re:Armed," a loot-driven multiplayer game built in Unity with PostgreSQL backend
+- **Band Director** with 10+ years teaching experience - Brings unique perspective on communication, leadership, and breaking down complex systems
+
+### 🎯 Core Competencies
+- Enterprise system architecture and database design
+- RESTful API development and microservices
+- Performance optimization and query tuning
+- Security compliance and best practices
+- Cross-functional team collaboration
+- Technical documentation and mentorship
 
 ### 📫 Let's Connect
 - 🌐 [michaelfaugno.com](https://www.michaelfaugno.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/faugnom1/)
-- 📧 Available for Solutions Architect and Software Engineering opportunities
+- 📧 Open to for Solutions Architect and Software Engineering opportunities
 
 ---
 
