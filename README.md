@@ -41,7 +41,3 @@ Currently seeking **Solutions Architect** and **Software Engineering** roles whe
 -  [michaelfaugno.com](https://www.michaelfaugno.com)
 -  [LinkedIn](https://www.linkedin.com/in/faugnom1/)
 -  Open to for Solutions Architect and Software Engineering opportunities
-
----
-
-<sub> Fun fact: I taught music for over a decade before transitioning to software engineering!</sub>
